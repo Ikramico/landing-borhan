@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Master Cold Email & Land High-Paying Clients</title>
+        <title>Smart Digital Marketing with AI‑2026 | Learn Media BD</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
