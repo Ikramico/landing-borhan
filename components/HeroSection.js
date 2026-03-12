@@ -34,7 +34,7 @@ export default function HeroSection() {
 
 			{/* Subtext */}
 			<p className="text-sm text-gray-500 max-w-xs sm:max-w-sm mx-auto leading-relaxed">
-				Watch our FREE training and learn how to grow your digital business
+				Join our FREE training and learn how to grow your digital business
 				using the power of AI in 2026.
 			</p>
 		</div>
