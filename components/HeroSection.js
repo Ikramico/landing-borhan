@@ -19,9 +19,9 @@ export default function HeroSection() {
 					className="w-20 h-20 rounded-full overflow-hidden flex-shrink-0"
 					style={{ border: "2px solid #19AAF8" }}>
 					<img
-						src="/bb.jpg"
+						src="/bb.jpeg"
 						alt="Borhan Uddin"
-						className="w-full object-cover"
+						className="w-full h-full object-cover"
 					/>
 				</div>
 				<div className="text-left">
