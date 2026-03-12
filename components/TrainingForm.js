@@ -33,7 +33,7 @@ export default function TrainingForm() {
 			<div className="bg-white border border-gray-200 rounded-xl shadow-sm p-5 sm:p-7">
 				{/* Card heading */}
 				<h2 className="text-base font-bold text-[#1a1a1a] text-center mb-1">
-					Watch the Free Training
+					Join the Free Training
 				</h2>
 				<p className="text-xs text-gray-400 text-center mb-5">
 					Enter your details below to join the FREE training
@@ -57,7 +57,7 @@ export default function TrainingForm() {
 							type="email"
 							value={formData.email}
 							onChange={handleChange}
-							placeholder="you@domain.com"
+							placeholder="you@gmail.com"
 							required
 						/>
 						<FormField
@@ -83,7 +83,7 @@ export default function TrainingForm() {
 							style={{
 								background: status === "loading" ? "#17a0e8" : "#19AAF8",
 							}}>
-							{status === "loading" ? "Submitting..." : "Watch Now →"}
+							{status === "loading" ? "Submitting..." : "Join Now →"}
 						</button>
 
 						{/* Trust badges */}

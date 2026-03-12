@@ -28,7 +28,7 @@ export default function HeroSection() {
 					<p className="text-sm font-semibold text-[#1a1a1a] leading-tight">
 						Borhan Uddin
 					</p>
-					<p className="text-xs text-gray-500">Pro Mentor</p>
+					<p className="text-xs text-gray-500">Mentor with 13+ years of experience</p>
 				</div>
 			</div>
 
